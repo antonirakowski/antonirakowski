@@ -12,9 +12,7 @@
 ## 🔍 About me
 
 I have a deep passion for theoretical mathematics — ranging from mathematical analysis and linear algebra to logic and formal set theory. My primary interests, however, lie in probability, statistics, machine learning, and their related fields.
-
 Beyond mathematics, I am deeply interested in computer science, with a particular focus on machine learning implementation, Linux, and FLOSS software.
-
 In my spare time, you'll find me hitting the weights, boxing, or out on the golf course.
 
 <!--https://github.com/Ileriayo/markdown-badges-->
@@ -36,7 +34,7 @@ In my spare time, you'll find me hitting the weights, boxing, or out on the golf
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ## 🚀 Projects
-- [ChatGPT reviews classifier](https://github.com/Micaet/ML_Project_1) - The goal of this project is to develop a machine learning model capable of correctly classifying user ratings (1-5) given to ChatGPT based on the accompanying comment.
+- [ChatGPT Reviews Classifier](https://github.com/Micaet/ML_Project_1) - The goal of this project is to develop a machine learning model capable of correctly classifying user ratings (1-5) given to ChatGPT based on the accompanying comment.
 - [Molecular Modelling in Drug Discovery](https://github.com/Micaet/Molecular-Modeling-in-Drug-Discovery) - The objective of this project is to identify a potent ligand inhibitor for the 5CNO protein (EGFR kinase), which is implicated in various types of cancer. This will be achieved through advanced computational molecular simulations and modeling techniques.
 
 ## 📧 Contact
