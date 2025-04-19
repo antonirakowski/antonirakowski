@@ -36,6 +36,7 @@ In my spare time, you'll find me hitting the weights, boxing, or out on the golf
 ## 🚀 Projects
 - [ChatGPT Reviews Classifier](https://github.com/Micaet/ML_Project_1) - The goal of this project is to develop a machine learning model capable of correctly classifying user ratings (1-5) given to ChatGPT based on the accompanying comment.
 - [Molecular Modelling in Drug Discovery](https://github.com/Micaet/Molecular-Modeling-in-Drug-Discovery) - The objective of this project is to identify a potent ligand inhibitor for the 5CNO protein (EGFR kinase), which is implicated in various types of cancer. This will be achieved through advanced computational molecular simulations and modeling techniques.
+- [PubMed Clustering](https://github.com/antonirakowski/PubMed-Clustering) - This project is a web-based application that integrates biomedical data retrieval and clustering analysis. The user-friendly web app takes PubMed articles as input and then clusters them along with their corresponding datasets, visualising the results as beautiful graphs.
 
 ## 📧 Contact
 Gmail: [anthonyrakowski1@gmail.com](mailto:anthonyrakowski1@gmail.com) <br>
